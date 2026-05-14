@@ -112,3 +112,7 @@ coverage.xml
 
 # Archivos locales de configuración
 local_settings.py
+
+
+curl -LsSf https://astral.sh/uv/install.sh | sh
+curl -LsSf https://astral.sh/uv/install.sh | sh
